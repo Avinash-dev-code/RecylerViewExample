@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ten_eleven_icon">
+
+        <item>@drawable/download</item>
+
+        <item>@drawable/larry</item>
+
+        <item>@drawable/linus</item>
+        <item>@drawable/elson</item>
+        <item>@drawable/images</item>
+
+
+    </array>
+
+</resources>
